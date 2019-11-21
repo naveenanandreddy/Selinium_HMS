@@ -1,8 +1,0 @@
-<suite name= "HMS Results">
-<test name= "HMS Test">
-<classes>
-<class name = "TestNGPackage.Sel3_HMS_Login">
-</class>
-</classes>
-</test>
-</suite>
