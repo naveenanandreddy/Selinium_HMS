@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HMS Results" duration-ms="25787" started-at="2019-11-21T16:07:50Z" finished-at="2019-11-21T16:08:15Z">
+    <groups>
+    </groups>
+    <test name="HMS Test" duration-ms="25787" started-at="2019-11-21T16:07:50Z" finished-at="2019-11-21T16:08:15Z">
+      <class name="TestNGPackage.Sel3_HMS_Login">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNGPackage.Sel3_HMS_Login@19bb089b]" name="beforeTest" is-config="true" duration-ms="16444" started-at="2019-11-21T18:07:50Z" finished-at="2019-11-21T18:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNGPackage.Sel3_HMS_Login@19bb089b]" name="f" duration-ms="4997" started-at="2019-11-21T18:08:06Z" finished-at="2019-11-21T18:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNGPackage.Sel3_HMS_Login@19bb089b]" name="afterTest" is-config="true" duration-ms="4333" started-at="2019-11-21T18:08:11Z" finished-at="2019-11-21T18:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNGPackage.Sel3_HMS_Login -->
+    </test> <!-- HMS Test -->
+  </suite> <!-- HMS Results -->
+</testng-results>
